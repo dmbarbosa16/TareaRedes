@@ -1,7 +1,7 @@
 {
   "nodes": [
-    {"id": "COLLUIGIPIRANDELLO", "group": 1},
-    {"id": "COLLATINOFRANCES", "group": 1},
+    {"id": "COL LUIGI PIRANDELLO", "group": 1},
+    {"id": "COL LATINO FRANCES", "group": 1},
     {"id": "GIMNASIONUESTRAEÑORADELAESPERANZA", "group": 1},
     {"id": "COLCOLOMBOFLORIDABILINGÜE", "group": 1},
     {"id": "COLEGIOCRISTOREYBOGOTA", "group": 1},
@@ -28,8 +28,8 @@
 	{"id": "INGLES", "group": 3}
   ],
   "links": [
-    {"source": "COLLUIGIPIRANDELLO", "target": "INGLES", "value": 1},
-    {"source": "COLLATINOFRANCES", "target": "INGLES", "value": 1},
+    {"source": "COL LUIGI PIRANDELLO", "target": "INGLES", "value": 1},
+    {"source": "COL LATINO FRANCES", "target": "INGLES", "value": 1},
     {"source": "GIMNASIONUESTRAEÑORADELAESPERANZA", "target": "INGLES", "value": 1},
     {"source": "COLCOLOMBOFLORIDABILINGÜE", "target": "INGLES", "value": 1},
     {"source": "COLEGIOCRISTOREYBOGOTA", "target": "INGLES", "value": 1},
