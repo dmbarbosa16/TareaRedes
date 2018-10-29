@@ -127,8 +127,8 @@
 	{"id": "COLEGIO KNIGHTSBRIDGE SCHOOLS INTERNATIONAL", "group": 2},
 	{"id": "FRANCES", "group": 3},
 	{"id": "ALEMAN", "group": 3},
-	{"id": "INGLES", "group": 3}
-	{"id": "HEBREO", "group": 3}
+	{"id": "INGLES", "group": 3},
+	{"id": "HEBREO", "group": 3},
 	{"id": "ITALIANO", "group": 3}
   ],
   "links": [
