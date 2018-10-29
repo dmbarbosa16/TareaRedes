@@ -127,7 +127,10 @@
 	{"id": "COLEGIO KNIGHTSBRIDGE SCHOOLS INTERNATIONAL", "group": 2},
 	{"id": "FRANCES", "group": 3},
 	{"id": "ALEMAN", "group": 3},
-	{"id": "INGLES", "group": 3}  ],
+	{"id": "INGLES", "group": 3},
+	{"id": "HEBREO", "group": 3},
+	{"id": "ITALIANO", "group": 3}
+  ],
   "links": [
 	{"source": "COL LUIGI PIRANDELLO", "target": "INGLES", "value": 1},
 	{"source": "COL LATINO FRANCES", "target": "INGLES", "value": 1},
